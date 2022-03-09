@@ -4,6 +4,6 @@
 [Репозиторий с кодом преподавателя](https://github.com/CAPCHIK/samsungandroid2021)
 
 # ИЭП-02-21
-<!-- * Проект 1
-* Проект 2
-* Проект 3 -->
+
+* [Карточная игра](https://github.com/LuminescentNebula/MyGame)
+
