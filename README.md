@@ -6,7 +6,7 @@
 # ИЭП-02-21
 
 * [Карточная игра](https://github.com/LuminescentNebula/MyGame)
-* [Соц сеть для спидкуберов](https://github.com/alexp0111/Messenger_project)
+* [Соц сеть для спидкуберов](https://github.com/alexp0111/Let-scube)
 <!-- * Проект 1
 * Проект 2
 * Проект 3 -->
