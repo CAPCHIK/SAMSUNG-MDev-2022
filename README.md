@@ -14,6 +14,7 @@
 * [Планировщик заданий](https://github.com/Dan1l0s/To-do_list)
 * [Дистанционное управление ПК / Помощник выступающего](https://github.com/XurRound/DeskLink)
 * [Сборник игр](https://github.com/NikitaSimashkin/Airplane)
+* [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 
 <!-- * Проект 1
 * Проект 2
