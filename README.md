@@ -9,6 +9,7 @@
 * [Соц сеть для спидкуберов](https://github.com/alexp0111/Let-scube)
 * [Сервис интернет-бронирования отелей](https://github.com/lisseenok/Looking-MDev-2022.git)
 * [Игра на реакцию и быстроту мышления](https://github.com/Sinforge/Barabashka_game)
+* [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 
 # ИЭП-03-21
 
