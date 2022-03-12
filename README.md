@@ -17,6 +17,7 @@
 * [Дистанционное управление ПК / Помощник выступающего](https://github.com/XurRound/DeskLink)
 * [Сборник игр](https://github.com/NikitaSimashkin/Airplane)
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
+* [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 
 <!-- * Проект 1
 * Проект 2
