@@ -12,6 +12,7 @@
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Система тестирования](https://github.com/carbon77/TestingSystemApp)
 * [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
+* [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
 
 # ИЭП-03-21
 
