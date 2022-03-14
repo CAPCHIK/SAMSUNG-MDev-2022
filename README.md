@@ -11,6 +11,7 @@
 * [Игра на реакцию и быстроту мышления](https://github.com/Sinforge/Barabashka_game)
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Система тестирования](https://github.com/carbon77/TestingSystemApp)
+* [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
 
 # ИЭП-03-21
 
