@@ -21,6 +21,7 @@
 * [Сборник игр](https://github.com/NikitaSimashkin/Airplane)
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
+* [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
 
 <!-- * Проект 1
 * Проект 2
