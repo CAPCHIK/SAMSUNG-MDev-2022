@@ -13,6 +13,7 @@
 * [Система тестирования](https://github.com/carbon77/TestingSystemApp)
 * [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
 * [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
+* [Услуги автомастерских](https://github.com/nerazocharovalsya/Samsung_Project_STO)
 
 # ИЭП-03-21
 
