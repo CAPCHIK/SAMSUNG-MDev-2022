@@ -11,6 +11,8 @@
 * [Игра на реакцию и быстроту мышления](https://github.com/Sinforge/Barabashka_game)
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Система тестирования](https://github.com/carbon77/TestingSystemApp)
+* [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
+* [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
 
 # ИЭП-03-21
 
@@ -19,6 +21,7 @@
 * [Сборник игр](https://github.com/NikitaSimashkin/Airplane)
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
+* [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
 
 <!-- * Проект 1
 * Проект 2
