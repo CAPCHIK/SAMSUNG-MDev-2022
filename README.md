@@ -14,6 +14,7 @@
 * [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
 * [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
 * [Услуги автомастерских](https://github.com/nerazocharovalsya/Samsung_Project_STO)
+* [Приватный мессенджер](https://github.com/hvdrtsoul/COMMUNiCATOR)
 
 # ИЭП-03-21
 
