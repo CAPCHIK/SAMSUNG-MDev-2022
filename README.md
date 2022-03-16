@@ -13,8 +13,10 @@
 * [Система тестирования](https://github.com/carbon77/TestingSystemApp)
 * [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
 * [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
+* [Игра на развитие логики](https://github.com/Dyaika/FilterGame)
 * [Услуги автомастерских](https://github.com/nerazocharovalsya/Samsung_Project_STO)
 * [Приватный мессенджер](https://github.com/hvdrtsoul/COMMUNiCATOR)
+* [Синхронизация музыки](https://github.com/BigFrendyoff/MusicSync)
 
 # ИЭП-03-21
 
@@ -24,6 +26,7 @@
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
+
 
 <!-- * Проект 1
 * Проект 2
