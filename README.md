@@ -14,6 +14,7 @@
 * [Приложение с рейтингом за исследование достопримечательностей](https://github.com/alex0d/GoCulture)
 * [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
 * [Услуги автомастерских](https://github.com/nerazocharovalsya/Samsung_Project_STO)
+[Синхронизация музыки](https://github.com/BigFrendyoff/MusicSync)
 
 # ИЭП-03-21
 
@@ -23,6 +24,7 @@
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
+
 
 <!-- * Проект 1
 * Проект 2
