@@ -15,6 +15,7 @@
 * [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
 * [Игра на развитие логики](https://github.com/Dyaika/FilterGame)
 * [Услуги автомастерских](https://github.com/nerazocharovalsya/Samsung_Project_STO)
+* [Приватный мессенджер](https://github.com/hvdrtsoul/COMMUNiCATOR)
 * [Синхронизация музыки](https://github.com/BigFrendyoff/MusicSync)
 
 # ИЭП-03-21
@@ -25,7 +26,8 @@
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
-*[Приложение для подготовки к ЕГЭ](https://github.com/blackmirrror/EGE-Creator.git)
+* [Приложение для подготовки к ЕГЭ](https://github.com/blackmirrror/EGE-Creator.git)
+* [MireaMarket](https://github.com/freshwhitedoses/MireaMarket)
 
 <!-- * Проект 1
 * Проект 2
