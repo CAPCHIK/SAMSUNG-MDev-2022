@@ -26,8 +26,8 @@
 * [Автоматизация работы ресторана](https://github.com/LilShkrek/Restaurants_automation.git) 
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
+* [Приложение для подготовки к ЕГЭ](https://github.com/blackmirrror/EGE-Creator.git)
 * [MireaMarket](https://github.com/freshwhitedoses/MireaMarket)
-
 
 <!-- * Проект 1
 * Проект 2
