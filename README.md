@@ -15,6 +15,7 @@
 * [Групповая чат-рулетка](https://github.com/xxavierr404/chatter)
 * [Игра на развитие логики](https://github.com/Dyaika/FilterGame)
 * [Услуги автомастерских](https://github.com/nerazocharovalsya/Samsung_Project_STO)
+* [Приватный мессенджер](https://github.com/hvdrtsoul/COMMUNiCATOR)
 * [Синхронизация музыки](https://github.com/BigFrendyoff/MusicSync)
 
 # ИЭП-03-21
