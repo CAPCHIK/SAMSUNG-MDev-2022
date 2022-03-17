@@ -28,6 +28,7 @@
 * [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
 * [Приложение для подготовки к ЕГЭ](https://github.com/blackmirrror/EGE-Creator.git)
 * [MireaMarket](https://github.com/freshwhitedoses/MireaMarket)
+* [Приложение для анализа акций](https://github.com/nvdovichev/Cheremas)
 
 <!-- * Проект 1
 * Проект 2
