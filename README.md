@@ -27,6 +27,7 @@
 * [Приложение для изучения английского](https://github.com/palyanaff/Samsung_Project_English_Learning)
 * [Соревнования по настольному теннису](https://github.com/Te4nick/myCompetes)
 * [MireaMarket](https://github.com/freshwhitedoses/MireaMarket)
+* [Приложение для анализа акций](https://github.com/nvdovichev/Cheremas)
 
 
 <!-- * Проект 1
