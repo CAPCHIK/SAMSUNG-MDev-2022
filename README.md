@@ -30,6 +30,7 @@
 * [MireaMarket](https://github.com/freshwhitedoses/MireaMarket)
 * [Приложение для анализа акций](https://github.com/nvdovichev/Cheremas)
 * [Игра выбери или умри](https://github.com/nsd6803/ProjectAlpha)
+* [Орг. приложение для ателье](https://github.com/gimmewhitewings/Astet-Manager)
 
 <!-- * Проект 1
 * Проект 2
