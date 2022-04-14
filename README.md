@@ -31,6 +31,7 @@
 * [Приложение для анализа акций](https://github.com/nvdovichev/Cheremas)
 * [Игра выбери или умри](https://github.com/nsd6803/ProjectAlpha)
 * [Орг. приложение для ателье](https://github.com/gimmewhitewings/Astet-Manager)
+* [Мафия для пользователей меньше 16 лет](https://github.com/leyla1k/Baby_Mafia)
 
 <!-- * Проект 1
 * Проект 2
